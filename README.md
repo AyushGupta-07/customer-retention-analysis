@@ -51,17 +51,12 @@ The workflow combines:
 ## Programming & Analysis
 - Python
 - Pandas
-- SQLAlchemy
-- PyMySQL
-
-## Database
-- MySQL
+- SQL
 
 ## Visualization
 - Power BI
 
 ## Development Environment
-- Jupyter Notebook
 - VS Code
 - Git & GitHub
 
@@ -203,7 +198,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 www.linkedin.com/in/ayush0307
 
 ## GitHub
-github.com/AyushGupta-07
+www.github.com/AyushGupta-07
 
 ---
 
